@@ -1,0 +1,21 @@
+h1{
+    color: #fff;
+}
+
+body{
+    background-color: #000;
+}
+
+.write{
+    display: flex;
+    color: #fff;
+    border: 10px solid white;
+    border-radius: 50px;
+    justify-content: center;
+}
+
+.link{
+    display: flex;
+    color: #fff;
+    justify-content: flex-end;
+}
